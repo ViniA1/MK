@@ -69,6 +69,11 @@ body p {
   align-items: flex-end;
 }
 
+.add-a {
+  display: flex;
+  justify-content: center;
+  margin-top: 2%;
+}
 
 .audio-bt {
   display: flex;
@@ -97,3 +102,4 @@ small {
     text-align: center;
   }
 }
+
